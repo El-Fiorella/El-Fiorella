@@ -2,7 +2,7 @@
 
 🎓 **Student | 💾 Database Developer | 🔐 Aspiring Cybersecurity Specialist | 🌐 Web Developer**  
 📍 Based in Johannesburg, South Africa | 🇿🇦  
-🎓 Studying Information Technology at **Belgium Campus**
+🎓 Studying Information Technology at **Second-Year IT Student at Belgium Campus**
 
 ---
 
@@ -10,9 +10,16 @@
 
 I'm a passionate IT student with a strong foundation in **database development**, **web development**, and a growing interest in **cybersecurity**. My goal is to design and implement robust and secure digital systems that empower users and organizations alike. I enjoy learning new technologies and am always exploring innovative ways to solve technical problems.
 
+I’ve worked on various projects involving:
+
+- 🌐 HTML & CSS Web Development  
+- 🐳 DockerHub for containerized deployments  
+- 📊 Database Design & Integration
+
+  
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Skills
 
 - 💽 **Database Development**
 - 💻 **Web Development**
@@ -35,20 +42,16 @@ I'm a passionate IT student with a strong foundation in **database development**
 
 ## 📫 Get in Touch
 
+I’m always open to collaboration, learning opportunities, or simply connecting with like-minded tech enthusiasts.
+
 📧 Email: [tappy902@gmail.com](mailto:tappy902@gmail.com)  
 🔗 LinkedIn: [tshepang-suping](https://www.linkedin.com/in/tshepang-suping-573308345)
 
 ---
 
-## 🔥 Fun Stuff
 
-![Profile Views](https://komarev.com/ghpvc/?username=TshepangSuping&style=flat-square&color=blue)  
-![Top Language](https://img.shields.io/github/languages/top/TshepangSuping?style=flat&color=blue)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TshepangSuping&show_icons=true&theme=radical)
+> ⭐ “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 
 
