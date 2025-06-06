@@ -1,52 +1,56 @@
 # 👋 Hi, I'm Tshepang Suping
 
-🎓 **Diploma in Information Technology**  
-📍 Based in **Johannesburg, Gauteng, South Africa**  
-💼 **Aspiring Database Developer | Second-Year IT Student at Belgium Campus**  
-📧 [tappy902@gmail.com](mailto:tappy902@gmail.com)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/tshepang-suping-573308345)
+🎓 **Student | 💾 Database Developer | 🔐 Aspiring Cybersecurity Specialist | 🌐 Web Developer**  
+📍 Based in Johannesburg, South Africa | 🇿🇦  
+🎓 Studying Information Technology at **Belgium Campus**
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-I am a second-year IT student at Belgium Campus, passionate about **database development**, **cybersecurity**, and **cloud computing**. I'm always exploring new technologies and thrive on solving complex problems with clean, scalable solutions.
-
-I’ve worked on various projects involving:
-
-- 🌐 HTML & CSS Web Development  
-- 🐳 DockerHub for containerized deployments  
-- 📊 Database Design & Integration  
+I'm a passionate IT student with a strong foundation in **database development**, **web development**, and a growing interest in **cybersecurity**. My goal is to design and implement robust and secure digital systems that empower users and organizations alike. I enjoy learning new technologies and am always exploring innovative ways to solve technical problems.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-- **Languages:** SQL, Python, JavaScript  
-- **Databases:** MySQL, PostgreSQL, SQLite  
-- **Tools:** Git, VS Code, Docker, pgAdmin  
-- **Concepts:** ER Modeling, Data Normalization, Secure Network Design  
-
----
-
-## 📚 Currently Learning
-
-- 🔐 Cybersecurity Principles & Threat Mitigation  
-- ☁️ Cloud Fundamentals & Deployment (AWS/Azure)  
-- 📈 Advanced Database Optimization  
+- 💽 **Database Development**
+- 💻 **Web Development**
+- 💡 **C Programming**
+- 🌐 **HTML / CSS / JavaScript**
+- 🧠 **Cybersecurity Fundamentals**
+- ⚙️ **Problem-Solving & Logical Thinking**
 
 ---
 
-## 📫 Let's Connect
+## 🚀 Career Interests
 
-I’m always open to collaboration, learning opportunities, or simply connecting with like-minded tech enthusiasts.
-
-📩 [tappy902@gmail.com](mailto:tappy902@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/tshepang-suping-573308345)
+- 🔐 **Cybersecurity Analyst / Penetration Tester**
+- 🧰 **Full-Stack Developer**
+- 📊 **Database Administrator**
+- ☁️ **Cloud Security**
+- 🧪 **Cybersecurity Lab Development**
 
 ---
 
-⭐ *“Striving to build secure, scalable, and innovative digital systems that make a difference.”*
+## 📫 Get in Touch
+
+📧 Email: [tappy902@gmail.com](mailto:tappy902@gmail.com)  
+🔗 LinkedIn: [tshepang-suping](https://www.linkedin.com/in/tshepang-suping-573308345)
+
+---
+
+## 🔥 Fun Stuff
+
+![Profile Views](https://komarev.com/ghpvc/?username=TshepangSuping&style=flat-square&color=blue)  
+![Top Language](https://img.shields.io/github/languages/top/TshepangSuping?style=flat&color=blue)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TshepangSuping&show_icons=true&theme=radical)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+
 
 
 
